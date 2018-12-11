@@ -2,7 +2,7 @@
 Repo for our (Vihan Nunkoo, Kurt Richardson, Joshua Olliver-Cole, Jay Ragoo) ADPROC coursework, a box ordering system...
 [Specification](ADPROC-spec.pdf)
 
-##Improvements to be added after demo:
+## Improvements to be added after demo:
 - Further input validation for overloading values
 - Check the method for which prices are calculated
 - Quantity input component as a 'spinner'
